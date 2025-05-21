@@ -1,6 +1,6 @@
 import { Image, Text, View, StyleSheet, ScrollView } from "react-native"
 
-import { MEALS } from "../Data/dummy_data"
+import { MEALS } from "../data/dummy_data"
 import MealDetails from "../components/MealDetails"
 
 function MealDetailScree({route, navigation}) {

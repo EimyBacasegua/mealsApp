@@ -1,5 +1,5 @@
 import { FlatList, StyleSheet } from "react-native";
-import { CATEGORIES } from "../Data/dummy_data";
+import { CATEGORIES } from "../data/dummy_data";
 import CategoryGridTile from "../components/CategoryGridTile";
 
 
